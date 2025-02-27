@@ -1,2 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Favilla1.github.io/Blog</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Favilla1.github.io/Blog</link></image><lastBuildDate>Thu, 27 Feb 2025 09:04:22 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Favilla1.github.io/Blog</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Favilla1.github.io/Blog</link></image><lastBuildDate>Thu, 27 Feb 2025 16:27:22 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>高并发学习</title><link>https://Favilla1.github.io/Blog/post/gao-bing-fa-xue-xi.html</link><description>接着我们再了解一个重要的概念：
+
+临界区：公共资源或者共享数据
+
+由于共享数据的出现，必然会导致竞争，所以我们需要再了解一下：
+
+阻塞：某个操作需要的共享资源被占用了，只能等待，称为阻塞
+
+&lt;img width='422' alt='Image' src='https://github.com/user-attachments/assets/6451efec-c757-48d7-8744-eb42a77fe816' /&gt;。</description><guid isPermaLink="true">https://Favilla1.github.io/Blog/post/gao-bing-fa-xue-xi.html</guid><pubDate>Thu, 27 Feb 2025 09:03:52 +0000</pubDate></item></channel></rss>
